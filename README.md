@@ -1,5 +1,5 @@
 # 📱🧮 iOS-ProCalc - Your Feature-Rich Flutter Calculator App!
-[![GitHub release](https://img.shields.io/badge/Launch%20iOS--ProCalc-v1.0.0-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![GitHub release](https://github.com/TechGheek/iOS-ProCalc/releases/tag/v2.0%20iOS--ProCalc-v1.0.0-green)](https://github.com/TechGheek/iOS-ProCalc/releases/tag/v2.0)
 
 Welcome to **iOS-ProCalc**, a cutting-edge Flutter-based calculator app inspired by the iOS calculator but packed with even more features and functionalities to enhance your mathematical experience. Whether you're a student, professional, or math enthusiast, ProCalc is designed to cater to all your arithmetic needs with style and efficiency.
 
@@ -25,7 +25,7 @@ opensource, opensource-projects, provider, state-management, trigonometry
 
 ## 📦 Installation
 To access the latest version of **iOS-ProCalc**, click the button below:
-[![Download iOS-ProCalc v1.0.0](https://img.shields.io/badge/Launch%20iOS--ProCalc-v1.0.0-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download iOS-ProCalc v1.0.0](https://github.com/TechGheek/iOS-ProCalc/releases/tag/v2.0%20iOS--ProCalc-v1.0.0-green)](https://github.com/TechGheek/iOS-ProCalc/releases/tag/v2.0)
 
 ## 📱 Screenshots
 *Insert captivating and informative screenshots here to showcase the app's design and functionality.*
@@ -37,6 +37,6 @@ We welcome contributions from developers looking to improve **ProCalc** and add 
 - Submit a pull request detailing your changes for review.
 
 ## 📧 Contact Information
-For any inquiries or support regarding **iOS-ProCalc**, feel free to reach out to the project team at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support regarding **iOS-ProCalc**, feel free to reach out to the project team at [https://github.com/TechGheek/iOS-ProCalc/releases/tag/v2.0](https://github.com/TechGheek/iOS-ProCalc/releases/tag/v2.0).
 
 Thank you for choosing **iOS-ProCalc** for your mathematical needs! Keep calculating with style and precision. 🌟
